@@ -2,3 +2,4 @@
 .mono
 ./.mono
 **/*.mono
+.idea
